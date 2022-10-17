@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=dockerpost
+POSTGRES_USER=UerweBUJLECfOyRyJHwwJOjncIptiOpF
+POSTGRES_PASSWORD=pKjtaYmjzi31feT9g1inhdDefdf6x9vEF8xUPR4iu9CcPlwI5QFxVGwpzVOdXQmI
